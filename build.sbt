@@ -4,7 +4,7 @@ version := "1.0"
 
 enablePlugins(ScalaJSPlugin)
 
-name := "Scala.js Tutorial"
+name := "Scala.js Hubot"
 
 scalaVersion := "2.11.7"
 
